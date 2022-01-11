@@ -1,0 +1,15 @@
+<Html>
+<head>
+<title>
+
+</title>
+</head>
+<body>
+<H1><font face="andalus"> YES I AM! </font></h1>
+jojo=yes<br> i am soo cringe &nbsp; jojo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jojo
+<a href= "file:///C:/Users/Slod/Desktop/hello.html"> click here for free stand</a>
+
+</body>
+
+</html>
